@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483442209400",
+    "firebase_url": "https://summer2019internship.firebaseio.com",
+    "project_id": "summer2019internship",
+    "storage_bucket": "summer2019internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483442209400:android:16fb0384abac8ae5",
+        "android_client_info": {
+          "package_name": "com.example.ravisheth.songlistner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483442209400-q4lote7351cr9c0jatq4pcfb5gunhv3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqwpXOVMUoau64UPQ9kQ8K-hbIyQw-wY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
